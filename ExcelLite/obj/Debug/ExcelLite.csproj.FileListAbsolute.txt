@@ -1,0 +1,5 @@
+D:\项目管理\CSharp\ExcelLite\ExcelLite\bin\Debug\ExcelLite.dll
+D:\项目管理\CSharp\ExcelLite\ExcelLite\bin\Debug\ExcelLite.pdb
+D:\项目管理\CSharp\ExcelLite\ExcelLite\obj\Debug\ExcelLite.csprojResolveAssemblyReference.cache
+D:\项目管理\CSharp\ExcelLite\ExcelLite\obj\Debug\ExcelLite.dll
+D:\项目管理\CSharp\ExcelLite\ExcelLite\obj\Debug\ExcelLite.pdb

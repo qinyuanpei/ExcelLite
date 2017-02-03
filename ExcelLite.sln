@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLite", "ExcelLite\ExcelLite.csproj", "{E3F9E4DC-65EB-494D-84E7-484EE995B697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyReflect", "EasyReflect\EasyReflect.csproj", "{57941630-8CD9-4ABC-8CB6-28E9C752F3B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F9E4DC-65EB-494D-84E7-484EE995B697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F9E4DC-65EB-494D-84E7-484EE995B697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F9E4DC-65EB-494D-84E7-484EE995B697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F9E4DC-65EB-494D-84E7-484EE995B697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57941630-8CD9-4ABC-8CB6-28E9C752F3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57941630-8CD9-4ABC-8CB6-28E9C752F3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57941630-8CD9-4ABC-8CB6-28E9C752F3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57941630-8CD9-4ABC-8CB6-28E9C752F3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
